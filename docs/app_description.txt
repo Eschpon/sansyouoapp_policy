@@ -1,0 +1,76 @@
+===== 日本語 =====
+
+【アプリ名】
+sansyouo
+
+【サブタイトル】
+サンショウウオ飼育管理記録帳
+
+【説明文】
+sansyouoは、サンショウウオの飼育記録を簡単に管理できるアプリです。
+
+■ 主な機能
+・複数のサンショウウオを名前・種類・記念日付きで登録
+・カレンダーから日付を選んで飼育記録を入力（1日に複数記録対応）
+・水温・水換え・エサ・体長・体重・費用・メモを記録
+・写真を添付して成長記録を残せる
+・水温・エサ・体長・体重・費用の推移を折れ線グラフで確認
+・記録内容をSNS（X、Facebook等）で共有
+・キーワード・サンショウウオ別・日付範囲で記録を検索
+・右上のハンバーガーメニューでホーム・グラフ・検索・設定を切り替え
+・日本の祝日を自動で表示（2020〜2050年対応）
+・ダークモード対応
+・日本語 / English 切り替え対応
+
+■ こんな方におすすめ
+・サンショウウオを飼育している方
+・飼育記録を日々つけたい方
+・複数のサンショウウオの管理をしたい方
+・成長記録を写真やグラフで残したい方
+
+すべてのデータは端末内に保存されます。アカウント登録やインターネット接続は不要です。
+
+【キーワード】
+サンショウウオ,飼育,記録,ペット,両生類,水温,エサ,体重,カレンダー,グラフ
+
+【カテゴリ】
+ライフスタイル（Lifestyle）
+
+
+===== English =====
+
+[App Name]
+sansyouo
+
+[Subtitle]
+Salamander Care Diary
+
+[Description]
+sansyouo is an app for easily managing salamander care records.
+
+■ Key Features
+- Register multiple salamanders with name, species, and anniversary
+- Select a date on the calendar and record care details (multiple records per day)
+- Record water temperature, water changes, food, body length, weight, cost, and notes
+- Attach photos to track growth
+- View trends with line graphs for temperature, food, body length, weight, and cost
+- Share records on social media (X, Facebook, etc.)
+- Search records by keyword, salamander, or date range
+- Navigate between Home, Graph, Search, and Settings via hamburger menu
+- Japanese national holidays displayed automatically (2020-2050)
+- Dark mode support
+- Japanese / English language support
+
+■ Who is this for?
+- Salamander keepers and enthusiasts
+- Anyone who wants to keep daily care records
+- People managing multiple salamanders
+- Those who want to document growth with photos and graphs
+
+All data is stored locally on your device. No account registration or internet connection required.
+
+[Keywords]
+salamander,care,record,pet,amphibian,temperature,feeding,weight,calendar,graph
+
+[Category]
+Lifestyle
